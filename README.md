@@ -8,7 +8,7 @@ Code and documentation for Kaggle's Titanic Data Analysis competition. The objec
 - [Dataset](#Dataset)
 - [Introduction](#Introduction)
 - [Assumptions](#Assumptions)
-- [How to use](#How to use)
+- [How to use](#Howtouse)
 - [Result](#Result)
 
 ## Overview

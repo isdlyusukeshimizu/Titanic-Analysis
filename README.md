@@ -1,46 +1,46 @@
-# Titanic データ分析
+# Titanic Data Analysis
 
-KaggleのTitanicデータ分析コンペに関するコードとドキュメントです。本テーマの目的は、年齢、性別、クラスなどの様々な特徴に基づいて、乗客の生存を予測することです。
+Code and documentation for Kaggle's Titanic Data Analysis competition. The objective of this theme is to predict passenger survival based on various characteristics such as age, gender, class, etc.
 
-## 目次
+## Table of Contents.
 
-- [概要](#概要)
-- [データセット](#データセット)
-- [はじめに](#はじめに)
-- [前提条件](#前提条件)
-- [使用方法](#使用方法)
-- [結果](#結果)
+- [Overview](#Overview)
+- [Dataset](#Dataset)
+- [Introduction](#Introduction)
+- [Assumptions](#Assumptions)
+- [How to use](#How to use)
+- [Result](#Result)
 
-## 概要
+## Overview
 
-Titanicデータセットは、機械学習とデータサイエンスで二値分類タスクに使用される有名なデータセットです。データのクリーニング、特徴エンジニアリング、モデルのトレーニングと評価が含まれます。
+The Titanic dataset is a well-known dataset used in machine learning and data science for binary classification tasks. It includes data cleaning, feature engineering, model training and evaluation.
 
-## データセット
+## Dataset
 
-このプロジェクトで使用されるデータセットは、[KaggleのTitanicコンペページ](https://www.kaggle.com/c/titanic)をご参照ください。以下の2つのファイルが含まれています：
+The dataset used in this project can be found on [Kaggle's Titanic competition page](https://www.kaggle.com/c/titanic). It contains the following two files:
 
-- `train.csv`：特徴とラベルを含むトレーニングデータセット。
-- `test.csv`：ラベルなしの特徴を含むテストデータセット。
+- `train.csv`: training dataset with features and labels.
+- `test.csv`: test dataset containing unlabeled features.
 
-## はじめに
+## Introduction
 
-以下のリンクからGoogle Colabノートブックを開いてください：
+Open the Google Colab notebook from the following link:
 
-[Google Colab: Titanic Analysis](https://colab.research.google.com/drive/1OFEXDtTRPVtXK8UIsFeNdn6rDnfWcuU2?hl=ja#scrollTo=moInQjCctBCz)
+[Google Colab: Titanic Analysis](https://colab.research.google.com/drive/1OFEXDtTRPVtXK8UIsFeNdn6rDnfWcuU2?hl=ja#scrollTo= moInQjCctBCz)
 
-### 前提条件
+### Prerequisites
 
-以下が必要です：
+You will need
 
-- Googleアカウント
-- Kaggleアカウント（データセットにアクセスするため）
+- Google account
+- Kaggle account (to access the dataset)
 
-### 使用方法
+### How to use
 
-1. 上記のGoogle Colabリンクをクリックしてノートブックを開きます。
-2. Kaggleからデータセットをダウンロードし、Google Colabにアップロードします。具体的な手順はノートブック内に記載されています。
-3. ノートブック内のセルを順に実行して、データの分析を行います。
+1. click on the Google Colab link above to open the notebook 2. download the dataset from Kaggle and upload it to Google Colab
+Download the dataset from Kaggle and upload it to Google Colab. Specific instructions are provided in the notebook. 3.
+3. run the cells in the notebook in sequence to analyze the data.
 
-### 結果
+### Results
 
-分析の結果、モデルの性能評価や可視化はGoogle Colabノートブック内に含まれています。
+The results of the analysis, model performance evaluation and visualization are included within the Google Colab notebook.
